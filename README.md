@@ -60,7 +60,7 @@ Al completar el curso satisfactoriamente, recibirás un **certificado avalado po
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM" width="150">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://media.licdn.com/dms/image/v2/C560BAQHUqyIEXZA18Q/company-logo_200_200/company-logo_200_200/0/1631318749821?e=1749686400&v=beta&t=ZFam-i1ZQ5_5x56OTGsViH0GYOFquaEMIu3Pe8EABds" alt="Bejob" width="150">
+  <img src="https://media.licdn.com/dms/image/v2/C560BAQHUqyIEXZA18Q/company-logo_200_200/company-logo_200_200/0/1631318749821?e=1749686400&v=beta&t=ZFam-i1ZQ5_5x56OTGsViH0GYOFquaEMIu3Pe8EABds" alt="Bejob" width="100">
 </p>
 
 ---
