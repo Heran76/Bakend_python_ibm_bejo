@@ -60,7 +60,7 @@ Al completar el curso satisfactoriamente, recibirás un **certificado avalado po
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM" width="150">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.bejob.com/" alt="Bejob" width="150">
+  <img src="https://www.bejob.com/wp-content/uploads/2025/01/bejob-color2-1.svg" alt="Bejob" width="150">
 </p>
 
 ---
