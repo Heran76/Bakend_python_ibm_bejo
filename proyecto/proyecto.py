@@ -73,9 +73,9 @@ class App(tk.Tk):
         self.text_color = "#4a4a4a"
         self.highlight = "#7d8da3"
         self.entry_bg = "#ffffff"
-        self.font_large = ('Helvetica', 16)
+        self.font_large = ('Helvetica', 18)
         self.font_medium = ('Helvetica', 14)
-        self.font_small = ('Helvetica', 12)
+        self.font_small = ('Helvetica', 17)
         
         self.configure(bg=self.bg_color)
         self.estilo = ttk.Style()
