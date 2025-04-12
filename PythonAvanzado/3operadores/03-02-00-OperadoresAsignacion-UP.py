@@ -19,8 +19,8 @@ y = 10
 x, y = y, x
 print(x, y)  # Output: 10 5
 
-5. Recibir múltiples valores de entrada del usuario
-Puedes solicitar al usuario que ingrese varios datos a la vez, separados por comas, y usar la asignación múltiple para obtener estos datos.
+#5. Recibir múltiples valores de entrada del usuario
+#Puedes solicitar al usuario que ingrese varios datos a la vez, separados por comas, y usar la asignación múltiple para obtener estos datos.
 
 nombre, apellido = input("Ingresa tu nombre y apellido, separados por una coma: ").split(',')
 print(f"Nombre: {nombre.strip()}, Apellido: {apellido.strip()}")
