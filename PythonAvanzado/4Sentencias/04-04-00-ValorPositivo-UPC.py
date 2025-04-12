@@ -9,25 +9,16 @@ else:
     print(f'Es cero {numero}')
     
     
-------
-diagrama uml de actividad (flujo)
-https://diagrams.helpful.dev/s/s:xpgncpvA
 
-@startuml
-!theme blueprint
-start
-:Revision Valor Positivo;
-:Entrada: 'Proporciona un número:';
+#diagrama uml de actividad (flujo)
+#https://diagrams.helpful.dev/s/s:xpgncpvA
 
-if (numero > 0) then (yes)
-  :'Es positivo';
-elseif (numero < 0) then (no)
-  :'Es negativo';
-else (Cero)
-  :'Es cero';
-endif
+#@startuml
 
-stop
-@enduml
+#start
+#:Revision Valor Positivo;
+#:Entrada: 'Proporciona un número:';
 
-https://diagrams.helpful.dev/s/s:m43Fbp9O
+
+
+
